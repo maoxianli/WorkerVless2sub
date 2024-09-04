@@ -10,6 +10,8 @@
 104.19.52.37:433#优选ip
 liberty.ns.cloudflare.com#优选域名
 marvin.ns.cloudflare.com#优选域名
+andy.ns.cloudflare.com#优选域名
+sureena.ns.cloudflare.com#优选域名
 129.153.126.67:443#优选反代
 143.47.242.195:443#优选反代
 134.65.59.100:443#优选反代
