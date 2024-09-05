@@ -1,4 +1,0 @@
-1,IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-2,47.74.155.26,80,80,FALSE,SIN,Asia Pacific,Singapore,229 ms,7920 kB/s
-3,164.152.34.166,80,80,FALSE,GRU,South America,S?o Paulo,388 ms,5208 kB/s
-4,193.123.252.170,8880,8880,FALSE,ICN,Asia Pacific,Seoul,118 ms,8434 kB/s
