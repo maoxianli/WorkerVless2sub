@@ -1,9 +1,9 @@
-IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+IP鍦板潃,绔彛,鍥炴簮绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,TCP寤惰繜(ms),閫熷害(MB/s)
 193.122.107.147,443,443,TRUE,Seoul,Asia Pacific,Seoul,62 ms,18639 kB/s
-152.70.83.37,443,443,TRUE,KIX,Asia Pacific,Osaka,203 ms,15939 kB/s
+152.70.83.37,443,443,TRUE,Osaka,Asia Pacific,Osaka,203 ms,15939 kB/s
 131.186.33.175,443,443,TRUE,Tokyo,Asia Pacific,Tokyo,116 ms,14382 kB/s
 152.67.212.141,443,443,TRUE,Seoul,Asia Pacific,Seoul,126 ms,13080 kB/s
-132.226.1.227,443,443,TRUE,NRT,Asia Pacific,Tokyo,89 ms,8337 kB/s
+132.226.1.227,443,443,TRUE,Tokyo,Asia Pacific,Tokyo,89 ms,8337 kB/s
 134.65.59.100,443,443,TRUE,London,Europe,London,315 ms,5765 kB/s
 140.238.158.238,443,443,TRUE,Toronto,North America,Toronto,268 ms,4302 kB/s
 130.162.184.173,443,443,TRUE,London,Europe,London,315 ms,4043 kB/s
