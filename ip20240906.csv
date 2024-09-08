@@ -1,12 +1,14 @@
 IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
 193.122.107.147,443,443,TRUE,Seoul,Asia Pacific,Seoul,62 ms,18639 kB/s
-152.70.83.37,443,443,TRUE,Osaka,Asia Pacific,Osaka,203 ms,15939 kB/s
 131.186.33.175,443,443,TRUE,Tokyo,Asia Pacific,Tokyo,116 ms,14382 kB/s
-152.67.212.141,443,443,TRUE,Seoul,Asia Pacific,Seoul,126 ms,13080 kB/s
 132.226.1.227,443,443,TRUE,Tokyo,Asia Pacific,Tokyo,89 ms,8337 kB/s
 134.65.59.100,443,443,TRUE,London,Europe,London,315 ms,5765 kB/s
-140.238.158.238,443,443,TRUE,Toronto,North America,Toronto,268 ms,4302 kB/s
 130.162.184.173,443,443,TRUE,London,Europe,London,315 ms,4043 kB/s
+132.145.94.99,443,443,TRUE,Seoul,Asia Pacific,Seoul,74 ms,21144 kB/s
+152.70.88.98,443,443,TRUE,Seoul,Asia Pacific,Seoul,94 ms,12926 kB/s
+129.153.126.67,443,443,TRUE,Los Angeles,North America,Los Angeles,219 ms,8188 kB/s
+132.226.31.178,443,443,TRUE,Los Angeles,North America,Los Angeles,219 ms,7463 kB/s
+141.148.191.31,443,443,TRUE,Los Angeles,North America,Los Angeles,213 ms,6327 kB/s
 47.251.54.234,8443,8443,TRUE,San Jose,North America,San Jose,214 ms,8812 kB/s
 193.122.1.0,8443,8443,TRUE,Frankfurt,Europe,Frankfurt,305 ms,8147 kB/s
 141.144.198.113,8443,8443,TRUE,Amsterdam,Europe,Amsterdam,265 ms,6905 kB/s
@@ -19,12 +21,12 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
 8.211.195.135,8443,8443,TRUE,London,Europe,London,323 ms,5342 kB/s
 141.147.85.167,8443,8443,TRUE,London,Europe,London,311 ms,5253 kB/s
 158.101.169.13,8443,8443,TRUE,Frankfurt,Europe,Frankfurt,306 ms,5226 kB/s
-130.162.226.138,8443,8443,TRUE,Frankfurt,Europe,Frankfurt,309 ms,5192 kB/s
 144.24.161.142,8443,8443,TRUE,Frankfurt,Europe,Frankfurt,260 ms,5030 kB/s
-8.208.11.119,8443,8443,TRUE,London,Europe,London,320 ms,4813 kB/s
-141.147.161.250,443,443,TRUE,Tokyo,Asia Pacific,Tokyo,178,5.53
-140.83.86.166,443,443,TRUE,Osaka,Asia Pacific,Osaka,156,6.05
-138.2.88.170,8443,443,TRUE,Singapore,Asia Pacific,Singapore,192,5.45
+138.2.88.170,8443,8443,TRUE,Singapore,Asia Pacific,Singapore,238 ms,16269 kB/s
+193.122.1.0,8443,8443,TRUE,FRA,Europe,Frankfurt,268 ms,9205 kB/s
+158.180.65.13,443,443,TRUE,Seoul,Asia Pacific,Seoul,193,5.37
+144.24.90.107,443,443,TRUE,Seoul,Asia Pacific,Seoul,189,5.35
+193.123.250.209,2087,2096,TRUE,Seoul,Asia Pacific,Seoul,216,5.35
 158.180.65.13,443,443,TRUE,Seoul,Asia Pacific,Seoul,278,5.44
 144.24.90.107,443,443,TRUE,Seoul,Asia Pacific,Seoul,154,5.27
 140.83.61.244,443,443,TRUE,Osaka,Asia Pacific,Osaka,199,5.7
